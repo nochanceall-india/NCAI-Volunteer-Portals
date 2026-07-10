@@ -484,4 +484,59 @@ transform:scale(1.05);
 
 }
 </html>
+/* Volunteer Dashboard */
+
+.profile-card{
+
+display:flex;
+
+align-items:center;
+
+gap:30px;
+
+background:#111827;
+
+padding:30px;
+
+border-radius:20px;
+
+margin-bottom:40px;
+
+flex-wrap:wrap;
+
+}
+
+.profile-image img{
+
+width:120px;
+
+height:120px;
+
+border-radius:50%;
+
+border:4px solid #2563eb;
+
+}
+
+.profile-card h2{
+
+margin-bottom:10px;
+
+}
+
+.profile-card p{
+
+margin:6px 0;
+
+color:#d1d5db;
+
+}
+
+.active{
+
+color:#22c55e;
+
+font-weight:bold;
+
+}
 
