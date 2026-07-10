@@ -267,3 +267,110 @@ color:#3b82f6;
 text-decoration:none;
 
 }
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Join NCAI</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<nav>
+
+<div class="logo">NCAI</div>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+<li><a href="login.html">Login</a></li>
+<li><a href="join.html">Join</a></li>
+
+</ul>
+
+</nav>
+
+<section class="join-section">
+
+<div class="join-box">
+
+<h1>Join NCAI</h1>
+
+<p>Become an Official Volunteer and Help Build a Corruption-Free India.</p>
+
+<form>
+
+<input type="text" placeholder="Full Name" required>
+
+<input type="email" placeholder="Email Address" required>
+
+<input type="tel" placeholder="Mobile Number" required>
+
+<input type="number" placeholder="Age" required>
+
+<select required>
+
+<option>Select State</option>
+
+<option>Himachal Pradesh</option>
+
+<option>Punjab</option>
+
+<option>Haryana</option>
+
+<option>Uttar Pradesh</option>
+
+<option>Delhi</option>
+
+<option>Rajasthan</option>
+
+<option>Uttarakhand</option>
+
+<option>Other</option>
+
+</select>
+
+<input type="text" placeholder="District">
+
+<select>
+
+<option>Select Role</option>
+
+<option>State Social Media Manager</option>
+
+<option>District Coordinator</option>
+
+<option>Content Writer</option>
+
+<option>Graphic Designer</option>
+
+<option>Video Editor</option>
+
+<option>Research Team</option>
+
+<option>Complaint Support</option>
+
+</select>
+
+<textarea placeholder="Why do you want to join NCAI?" rows="5"></textarea>
+
+<button type="submit">Submit Application</button>
+
+</form>
+
+</div>
+
+</section>
+
+</body>
+
+</html>
